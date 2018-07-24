@@ -1,0 +1,43 @@
+.list {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    margin-left: 40%;
+    width: 20rem;
+    border-radius: 15%;
+    background-color: rgb(75, 171, 235);
+    margin-top: 3rem;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.form {
+    margin-left: 42%;
+    margin-top: 1rem;
+    background-color: rgb(75, 171, 235);
+    padding: 15px;
+    width: 16rem;
+    border-radius: 10%;
+}
+
+.page {
+    background-color: rgb(36, 35, 35);
+    position: absolute;
+    width: 100%;
+    margin-top: -2rem;
+    overflow-x: hidden;
+}
+
+h1 {
+    color: rgb(75, 171, 235);
+    font-size: 50px;
+    position: absolute;
+    font-family: 'Kaushan Script', cursive;
+    margin-top: 2rem;
+    margin-left: 10rem;
+    border-bottom: 3px solid white;
+}
